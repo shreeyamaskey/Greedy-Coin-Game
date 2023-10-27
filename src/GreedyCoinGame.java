@@ -1,7 +1,7 @@
 /**
  * Plays Greedy Coin game such that the computer never loses.
  * 
- * [ YOUR NAME GOES HERE]
+ * [Shreeya Maskey]
  */
 import java.io.*;
 import java.util.*;
@@ -113,9 +113,6 @@ public class GreedyCoinGame {
 		}
 		
 		keyboard.close();
-
-
-		
 
 	}
 
